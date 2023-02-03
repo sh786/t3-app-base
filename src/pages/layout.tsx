@@ -1,5 +1,5 @@
 import { type ReactNode } from "react";
-import { MainNav } from "../components/MainNav";
+import { MainNav } from "@/components/MainNav";
 
 export function RootLayout({ children }: { children: ReactNode }) {
   return (
